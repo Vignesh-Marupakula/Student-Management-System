@@ -121,19 +121,11 @@ Explore the organized project structure:
 
 - **Graceful Shutdown with Shutdown Hook:** To ensure proper closing of the database connection when the program ends, a shutdown hook is registered. The shutdown hook, implemented as a separate thread, closes the database connection gracefully, preventing any resource leaks or data corruption.
 
-## Acknowledgments 🙏
-
-We extend our sincere gratitude to our esteemed faculty:
-
-🎓 **MD SAJID BIN-FAISAL**<br>
-🎓 **Database Faculty, AIUB**
-
-Your invaluable guidance has played a pivotal role in shaping this project, fostering a deep understanding of database management and software development principles.
 
 ## Contact 📬
 
 For inquiries, suggestions, or feedback, please don't hesitate to reach out to us:
 
-📧 [ehsanul.siamdev@gmail.com](mailto:ehsanul.siamdev@gmail.com)
+📧 [vigneshmarupakula@gmail.com](mailto:vigneshmarupakula@gmail.com)
 
 Embark on this coding journey with confidence and wield your newfound skills to manage students with finesse! 🧙‍♂️✨
